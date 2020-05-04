@@ -1,0 +1,29 @@
+
+blockquote p {
+    color: blue;
+}
+
+  a[href^='https://']{
+    color: red;
+}
+.list li:nth-child(4n) {
+    background-color: blue;
+}
+.holder  p{
+    font-size: 26px;
+}
+.text-box h3:nth-child(odd){
+    color: pink;
+}
+#greycol{
+    color: grey;
+}
+.text-box div p{
+    color: red;
+}
+.text-box p:nth-child(7n){
+   color: green;
+}
+.yellow{
+    color: yellow;
+}
